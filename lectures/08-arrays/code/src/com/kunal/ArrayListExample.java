@@ -3,6 +3,7 @@ package com.kunal;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+//ArrayList:- An ArrayList in Java is a resizable-array implementation of the List interface found in the java.util package. Unlike standard Java arrays which have a fixed size, an ArrayList grows and shrinks automatically as elements are added or removed.
 public class ArrayListExample {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
